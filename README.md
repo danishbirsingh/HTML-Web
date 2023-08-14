@@ -1,2 +1,4 @@
 # HTML-Web
-Mini Projects that include frameworks like HTML, CSS, JavaScript
+Mini Survey that include frameworks like HTML, CSS
+
+
